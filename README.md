@@ -5,8 +5,6 @@ _Pilot is an innovative Shopify theme, powered by Hydrogen, Remix, and Weaverse,
 ## Demo
 
 - [Live store](https://pilot.weaverse.dev)
-- Try customizing Pilot on [Weaverse Playground](https://playground.weaverse.io)
-  ![demo](https://cdn.shopify.com/s/files/1/0693/8201/3220/files/Home.png?v=1695816170)
 
 ## What's included
 
@@ -20,7 +18,7 @@ _Pilot is an innovative Shopify theme, powered by Hydrogen, Remix, and Weaverse,
 - TypeScript and JavaScript flavors
 - Tailwind CSS (via PostCSS)
 - Full-featured setup of components and routes
-- Fully customizable inside [Weaverse](https://weaverse.io)
+
 
 ## Getting started
 
